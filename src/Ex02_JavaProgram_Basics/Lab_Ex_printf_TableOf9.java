@@ -1,6 +1,6 @@
-package Ex01_JavaProgram;
+package Ex02_JavaProgram_Basics;
 
-public class Lab_Ex_printf9 {
+public class Lab_Ex_printf_TableOf9 {
     public static void main(String[] args) {
         int num=9;
         System.out.printf("9*%d = %d \n",1,num*1);
