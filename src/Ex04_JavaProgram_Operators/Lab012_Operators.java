@@ -5,7 +5,7 @@ public class Lab012_Operators {
         int age = 60; //assignment operator
         System.out.println(age);
 
-        //Arithmetic operators
+        //Arithmetic operators + - * / %
         System.out.println("Arithmetic");
         int a = 20;
         int b = 3;
@@ -34,7 +34,7 @@ public class Lab012_Operators {
         int mod_b = 10;
         System.out.println(mod_a%mod_b); // % is called modulas operator
 
-        //Relational Operator, comparing
+        //Relational Operator, comparing <= >=
         System.out.println("relational");
         int ra = 10;
         int rb = 30;
@@ -46,7 +46,7 @@ public class Lab012_Operators {
         System.out.println(rresult);
 
 
-        //logical
+        //logical || && !
         System.out.println("logical");
         boolean la = true;
         System.out.println(!la);
