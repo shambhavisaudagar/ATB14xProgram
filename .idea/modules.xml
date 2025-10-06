@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ATB14xProgram.iml" filepath="$PROJECT_DIR$/ATB14xProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PMainCP/PMainCP/PMainCP.iml" filepath="$PROJECT_DIR$/../PMainCP/PMainCP/PMainCP.iml" />
     </modules>
   </component>
 </project>
