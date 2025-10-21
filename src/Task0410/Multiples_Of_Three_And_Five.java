@@ -1,4 +1,4 @@
-package Assignment0410;
+package Task0410;
 
 public class Multiples_Of_Three_And_Five {
     static void main() {
